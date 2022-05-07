@@ -1,0 +1,47 @@
+.panel {
+    width: 60%;
+    margin: 0 auto;
+    border: solid #4267b2 1px;
+}
+
+.panel-heading {
+    background-color: #4267b2;
+    padding: 10px;
+    color: white;
+}
+
+.panel-body {
+    padding: 1px;
+    background-color: rgb(43, 180, 226);
+    
+}
+
+.panel-body label {
+    font-weight: bold;
+}
+
+.form-group {
+    display: block;
+    margin-bottom: 20px;
+}
+
+.form-control {
+    display: block;
+    width: 98%;
+    font-size: 16px;
+    margin-top: 10px;
+    border-color: #b2429f;
+}
+
+.table {
+    width: 100%;
+    background-color: #d9b1ad;
+    border-color: azure;
+}
+
+.table tr {
+    border-bottom: solid rgb(0, 200, 255) 1px;
+    background-color: #4267b2;
+    border-color: #b2429f;
+    
+}
